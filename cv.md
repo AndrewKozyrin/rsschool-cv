@@ -1,7 +1,6 @@
 # **Andrey Kozyrin**
 
 ## About myself
-____
 Hello, my name is ***Andrew***. I work in LLC "IT-Plus" this is a Russian electricity generation company part of the Renova Group. My position Application Developer, i work in this title last 5 years. In my responsibility include backend develop, desktop application, write scripts, program support.
 ### Personal qualities:
 * Learns Quickly
@@ -12,7 +11,6 @@ Hello, my name is ***Andrew***. I work in LLC "IT-Plus" this is a Russian electr
 * Self-Motivated
 
 ## Skills
-____
 ### Programming languages and frameworks:
 * C, C++
     * Qt 5
@@ -21,28 +19,27 @@ ____
 * Java
     * (learning Spring)
 * Lua
-* PHP
+* PHP  
 ### Databases:
 * SQL
     * MySQL
     * PostgreSQL
-    * MSSQL
+    * MSSQL  
 ### Tools:
 * SDK Man
 * Git
 * Postman
 * Maven
-* pip
+* pip  
 ### IDE:
 * IntelliJ
     * IDEA
     * PHPStorm
     * PyCharm
 * Qt Creator
-* ZeroBrane Studio
+* ZeroBrane Studio  
 
 ## Code examples:
-____
 ### Java:
 You can see my little education project where i learn how work IOC programming principle, pattern di, di-container:
 
@@ -82,7 +79,7 @@ A small piece of project "Connect to OPC", this code create config file to datab
             message.exec_()
 ````
 
-C++(Qt5):  
+### C++(Qt5):  
 A small piece of project "Monitor", this code find table name use OPC tag.
 ````
 QString LastValue::findTableName(QString tag)

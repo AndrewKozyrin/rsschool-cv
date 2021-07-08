@@ -10,7 +10,8 @@ Hello, my name is ***Andrew***. I work in LLC "IT-Plus" this is a Russian electr
 * Thorough
 * Self-Motivated
 
-## Skills
+## Skills  
+
 ### Programming languages and frameworks:
 * C, C++
     * Qt 5
@@ -20,17 +21,20 @@ Hello, my name is ***Andrew***. I work in LLC "IT-Plus" this is a Russian electr
     * (learning Spring)
 * Lua
 * PHP  
+
 ### Databases:
 * SQL
     * MySQL
     * PostgreSQL
     * MSSQL  
+
 ### Tools:
 * SDK Man
 * Git
 * Postman
 * Maven
 * pip  
+
 ### IDE:
 * IntelliJ
     * IDEA

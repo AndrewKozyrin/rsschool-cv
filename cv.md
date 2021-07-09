@@ -53,10 +53,9 @@ I participate in a training project:
 
 **[Java-education-base](https://github.com/jegius/java-education-base)**
 
-### Python:
-
-Create many project use Python 3.6  
-A small piece of project "Connect to OPC", this code create config file to database
+### Python:  
+I have private projects on Github use Python 3.6  
+A small piece of project "Connect to OPC", this code create config file to connect to database:
 ````
     def create_config_database(self, cfg_name: str, source_name: str, message: QMessageBox):
         try:
@@ -84,7 +83,8 @@ A small piece of project "Connect to OPC", this code create config file to datab
 ````
 
 ### C++(Qt5):  
-A small piece of project "Monitor", this code find table name use OPC tag.
+I have private projects on Github.  
+A small piece of project "Monitor", this code find table name use OPC tag:
 ````
 QString LastValue::findTableName(QString tag)
 {
@@ -112,9 +112,22 @@ Data | Organization | Position
 04.04.2018 - 03.01.2021 | PJSC "T-Plus" | Application Developer
 03.01.2021 - till now | LLC "IT-Plus" | Application Developer
 
+## Education
 
-## Contacts
-____
+Date | University (Course) | Specialization
+---- | ------------------- | --------------
+2006-2011 | Volga Region State University of Service | Electronic engineer
+2011-2014 | Volga Region State University of Service Graduate school | Electromechanics and electrical apparatus
+2016-2017 | Learning Center "Netcracker" | Software Developer
+2018 | Learning Center LLC "SMS-Automatization" | SIEMENS Simatic, SIEMENS WinCC
+2019 | Learning Center "ProSoft Technology Inc" | PLC Regul
+
+## Language
+
+English - A2 [Anglomir](https://anglomirtlt.ru/online)  
+I have language practice withe few american friends lives in New-York and Georgia state.
+
+## Contacts  
 Phone: +79276596236  
 E-mail: kozyrin.ai@gmail.com
 

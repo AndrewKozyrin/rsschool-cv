@@ -1,7 +1,7 @@
 # **Andrey Kozyrin**
 
 ## About myself
-Hello, my name is ***Andrew***. I work in LLC "IT-Plus" this is a Russian electricity generation company part of the Renova Group. My position Application Developer, i work in this title last 5 years. In my responsibility include backend develop, desktop application, write scripts, program support.
+Hello, my name is ***Andrew***. I work in LLC "IT-Plus" this is a Russian electricity generation company part of the Renova Group. My position Application Developer, i work in this title last 3 years. In my responsibility include backend develop, desktop application, write scripts, program support.
 ### Personal qualities:
 * Learns Quickly
 * Resilient
@@ -99,7 +99,19 @@ QString LastValue::findTableName(QString tag)
     query.clear();
     return tableName;
 }
-````
+````  
+
+## Work experience  
+
+Data | Organization | Position
+---- | -------------| --------|
+04.20.2011 - 08.18.2011 | Togliatti State University (research department) | Laboratory assistant 
+04.23.2012 - 12.10.2012 | Volga Region State University of Service | System Administrator
+10.01.2012 - 08.01.2016 | LLC "Detail Resource" | System Administrator, Web Developer, Application Developer
+09.01.2016 - 04.01.2018 | "Pro guild" | Full Stack Developer ([Victory](https://xn---63-5cdesg4ei.xn--p1ai))
+04.04.2018 - 03.01.2021 | PJSC "T-Plus" | Application Developer
+03.01.2021 - till now | LLC "IT-Plus" | Application Developer
+
 
 ## Contacts
 ____

@@ -38,3 +38,22 @@ h3{
   scroll-margin-top: 5em;
 }
 
+.link-button{
+  border: 1px solid #20538D;
+  border-radius: 4px;
+  padding: 8px 12px;
+  text-decoration: none;
+  background: #4479BA;
+  color: #FFF;
+}
+
+.link-button:hover{
+  background: #20538D;
+}
+
+.code-style{
+  background: #bfbfbf;
+  font-size: 14px;
+  padding-left: 0;
+  white-space: pre-wrap;
+}

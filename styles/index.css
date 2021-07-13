@@ -102,3 +102,25 @@ h3{
 .icons{
   margin-right: 15px;
 }
+
+.footer{
+  display: flex;
+  flex-direction: row;
+  border-top: 1px solid rgb(0,0,0,0.2);
+}
+
+.footer-github{
+  width: 50%;
+}
+
+.footer-rschool{
+  width: 50%;
+}
+
+.footer-rschool p{
+  float: right;
+}
+
+.footer-rschool img{
+  height: 32px;
+}

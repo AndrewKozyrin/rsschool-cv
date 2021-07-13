@@ -12,28 +12,30 @@
 <body>
   <main>
     <div class="block">
-      <aside class="left-bar">
+      <header>
         <nav>
-          <ul>
-            <li><a href="">About myself</a></li>
-            <li><a href="">Skills</a></li>
+          <ul class="navigation">
+            <li><a href="#about">About myself</a></li>
+            <li><a href="#skills">Skills</a></li>
             <li><a href="">Code examples</a></li>
             <li><a href="">Work experience</a></li>
             <li><a href="">Education</a></li>
             <li><a href="">Language</a></li>
-            <li><a href="">Contacts</a></li>
+            <li><a href="#test">Contacts</a></li>
           </ul>
         </nav>
-      </aside>
-      <section class="content max-width">
-        <h2>About myself</h2>
+      </header>
+      <section class="content">
+        <div class="good-anchor" id="about">
+          <h2>About myself</h2>
+        </div>
         <p>Hello, my name is Andrew. I work in LLC "IT-Plus" this is a Russian
           electricity generation company part of the Renova Group.
           My position Application Developer, i work in this title last 3 years.
           In my responsibility include backend develop, desktop application,
           write scripts, program support.</p>
         <h3>Personal qualities:</h3>
-        <ul>
+        <ul class="list">
           <li>Learns Quickly</li>
           <li>Resilient</li>
           <li>Willing</li>
@@ -42,6 +44,28 @@
           <li>Self-Motivated</li>
         </ul>
         <h2>Skills</h2>
+        <ul class="list">
+          <li>
+            C, C++
+            <ul class="sub-list">
+              <li>Qt 5</li>
+            </ul>
+          </li>
+          <li>
+            Python
+            <ul class="sub-list">
+              <li>PyQt5</li>
+            </ul>
+          </li>
+          <li>
+            Java
+            <ul class="sub-list">
+              <li>(learning Spring)</li>
+            </ul>
+          </li>
+          <li>Lua</li>
+          <li>PHP</li>
+        </ul>
       </section>
     </div>
   </main>

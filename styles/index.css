@@ -1,12 +1,13 @@
 .block{
   margin: auto;
   max-width: 800px;
+  padding-top: 40px;
 }
 
 .content{
-  padding-top: 45px;
   font-size: 18px;
   line-height: 27px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h2{

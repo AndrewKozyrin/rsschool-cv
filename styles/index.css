@@ -1,3 +1,11 @@
+h2{
+  border-bottom: 3px solid #000;
+}
+
+h3{
+  text-decoration: underline;
+}
+
 .block{
   margin: auto;
   max-width: 800px;
@@ -10,12 +18,24 @@
   line-height: 27px;
 }
 
-h2{
-  border-bottom: 3px solid #000;
+.about-box{
+  display: flex;
+  flex-direction: row;
 }
 
-h3{
-  text-decoration: underline;
+.about-box-image{
+  width: 50%;
+}
+
+.about-box-image img{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.about-box-text{
+  width: 50%;
+  text-align: right;
 }
 
 .list li{

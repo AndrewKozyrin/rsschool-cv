@@ -9,6 +9,11 @@
   background-color: #333;
 }
 
+.navigation li{
+  display: inline-block;
+  padding: 15px 10px;
+}
+
 .navigation li a{
   color: #fff;
   text-decoration: none;
@@ -19,8 +24,4 @@
   color: #000;
 }
 
-.navigation li{
-  display: inline-block;
-  padding: 15px 10px;
-}
 

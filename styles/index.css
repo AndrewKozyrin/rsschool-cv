@@ -1,0 +1,147 @@
+.block{
+  margin: auto;
+  max-width: 800px;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-shadow: 0px 0px 20px 0px #000;
+}
+
+.content{
+  font-size: 18px;
+  line-height: 27px;
+}
+
+main{
+  background: #f5f5f5;
+}
+
+h2{
+  border-bottom: 3px solid #000;
+}
+
+h3{
+  text-decoration: underline;
+}
+
+.about-box{
+  display: flex;
+  flex-direction: row;
+}
+
+.about-box-image{
+  width: 50%;
+}
+
+.about-box-image img{
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  box-shadow: 0px 0px 0px 7px #000;
+  margin-left: 7px;
+}
+
+.about-box-text{
+  width: 50%;
+  text-align: right;
+}
+
+.list li{
+  background: #ddd;
+  padding: 5px 10px;
+  margin: 5px;
+  box-shadow: 0px 0px 3px 0px #000;
+  font-weight: bold;
+  list-style-type: none;
+}
+
+.list li:hover{
+  background: #333;
+  color: #fff;
+}
+
+.list li:hover ul li{
+  background: #ddd;
+  color: #000;
+}
+
+.sub-list li{
+  box-shadow: 0px 0px 3px 0px #000;
+  background: #cacaca;
+  margin: 15px 0;
+  font-weight: normal;
+}
+
+.sub-list li:hover{
+  box-shadow: 0px 0px 3px 3px #fff;
+}
+
+.anchor{
+  scroll-margin-top: 60px;
+}
+
+.link-button{
+  border: 1px solid #fff;
+  border-radius: 4px;
+  padding: 8px 12px;
+  text-decoration: none;
+  background: #333;
+  color: #fff;
+}
+
+.link-button:hover{
+  background: #20538D;
+}
+
+.code-style{
+  background: #bfbfbf;
+  font-size: 14px;
+  padding-left: 0;
+  white-space: pre-wrap;
+}
+
+.table{
+  font-size: 14px;
+  text-align: left;
+  line-height: 21px;
+  border-collapse: collapse;
+}
+
+.table thead{
+  background: #383838;
+  color: white;
+}
+
+.table tbody tr{
+  border-bottom: 1px solid #C0C0C0;
+}
+.table tbody td{
+  padding-right: 10px;
+}
+
+.icons{
+  margin-right: 15px;
+}
+
+.footer{
+  display: flex;
+  flex-direction: row;
+  border-top: 1px solid rgba(0,0,0,0.2);
+}
+
+.footer-github{
+  width: 50%;
+}
+
+.footer-rschool{
+  width: 50%;
+}
+
+.footer-rschool p{
+  float: right;
+}
+
+.footer-rschool img{
+  height: 32px;
+}

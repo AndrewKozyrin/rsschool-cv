@@ -1,0 +1,27 @@
+.navigation{
+  margin: 0;
+  padding: 0 15px;
+  text-align: center;
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  background-color: #333;
+}
+
+.navigation li{
+  display: inline-block;
+  padding: 15px 10px;
+}
+
+.navigation li a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.navigation li:hover, .navigation li:hover a{
+  background: #ddd;
+  color: #000;
+}
+
+

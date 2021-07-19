@@ -157,6 +157,15 @@ h3 {
   height: 32px;
 }
 
+.contacts{
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.contacts li{
+  padding: 10px;
+}
+
 @media (max-width: 833px) {
   .block{
     padding-top: 80px;

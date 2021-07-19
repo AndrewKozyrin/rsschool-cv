@@ -104,7 +104,8 @@ h3 {
   background: #bfbfbf;
   font-size: 14px;
   padding-left: 0;
-  white-space: pre-wrap;
+  white-space: break-spaces;
+  word-break: break-word;
 }
 
 .table {
@@ -169,7 +170,19 @@ h3 {
   }
 
   .block{
-    width: 100%;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     max-width: none;
+  }
+
+  .content{
+    font-size: 14px;
+    line-height: 21px;
+  }
+
+  .table{
+    font-size: 12px;
+    line-height: 18px;
   }
 }

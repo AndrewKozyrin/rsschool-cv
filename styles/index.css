@@ -157,6 +157,10 @@ h3 {
   height: 32px;
 }
 
+.footer-rschool a{
+  text-decoration: none;
+}
+
 .contacts{
   list-style-type: none;
   padding-left: 0;

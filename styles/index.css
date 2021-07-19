@@ -38,6 +38,7 @@ h3 {
 
 .about-box-image {
   width: 50%;
+  margin-right: 10px;
 }
 
 .about-box-image img {
@@ -51,6 +52,7 @@ h3 {
 .about-box-text {
   width: 50%;
   text-align: right;
+  margin-left: 10px;
 }
 
 .list li {

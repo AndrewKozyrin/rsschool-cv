@@ -1,3 +1,9 @@
+body{
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
 .block {
   margin: auto;
   max-width: 800px;
@@ -145,4 +151,25 @@ h3 {
 
 .footer-rschool img {
   height: 32px;
+}
+
+@media (max-width: 833px) {
+  .block{
+    padding-top: 80px;
+  }
+
+  .anchor{
+    scroll-margin-top: 115px;
+  }
+}
+
+@media (max-width: 530px) {
+  .navigation{
+    display: none;
+  }
+
+  .block{
+    width: 100%;
+    max-width: none;
+  }
 }
